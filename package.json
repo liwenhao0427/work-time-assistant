@@ -1,0 +1,24 @@
+{
+  "name": "工时智能校验助手-vue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "lucide-vue-next": "^0.469.0",
+    "react": "^18.2.0",
+    "lucide-react": "^0.294.0"
+  },
+  "devDependencies": {
+    "@types/node": "^16.18.68",
+    "@vitejs/plugin-vue": "^4.6.2",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "~5.2.2",
+    "vite": "^4.5.5"
+  }
+}

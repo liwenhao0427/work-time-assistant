@@ -1,0 +1,5 @@
+{
+  "name": "工时智能校验助手-Vue",
+  "description": "基于 Vue 3 的工时统计工具，支持Excel数据粘贴、特殊工作日配置及自动工时分配计算。",
+  "requestFramePermissions": []
+}
